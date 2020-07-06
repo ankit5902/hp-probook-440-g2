@@ -1,14 +1,14 @@
 # HP ProBook 440 G2 Hackintosh OpenCore
 ## System Specifications
-  CPU : Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
-  GPU : Intel HD Graphics 5500
-  RAM : 8.00 GB
-  Motherboard : 
-  Audio Codec : Realtek ALC282
-  Ethernet Card : Realtek RTL8111 Gigabit Ethernet Controller 
-  Wifi/BT Card : Broadcom BCM4352 802.11ac Wireless Network Adapter 
-  Trackpad : Synaptics PS2 Trackpad
-  Card Reader : Realtek RTS5227 PCI Express Card Reader
+  *  CPU : Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+  *  GPU : Intel HD Graphics 5500
+  *  RAM : 8.00 GB
+  *  Motherboard : 
+  *  Audio Codec : Realtek ALC282
+  *  Ethernet Card : Realtek RTL8111 Gigabit Ethernet Controller 
+  *  Wifi/BT Card : Broadcom BCM4352 802.11ac Wireless Network Adapter 
+  *  Trackpad : Synaptics PS2 Trackpad
+  *  Card Reader : Realtek RTS5227 PCI Express Card Reader
 
 ## Current version
 * OpenCore - 0.5.9
