@@ -2,7 +2,7 @@
 ## System Specifications
   *  CPU : Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
   *  GPU : Intel HD Graphics 5500
-  *  RAM : 8.00 GB
+  *  RAM : 8.00 GB (4 GB * 2)
   *  Motherboard : 
   *  Audio Codec : Realtek ALC282
   *  Ethernet Card : Realtek RTL8111 Gigabit Ethernet Controller 
