@@ -12,7 +12,7 @@
 
 ## Current version
 * OpenCore - 0.5.9
-* BIOS - M73 
+* BIOS - M73 Ver 1.54
 
 ## Disclaimer
 This repository has no other purpose but sharing.
