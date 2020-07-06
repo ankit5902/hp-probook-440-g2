@@ -35,3 +35,4 @@ This hackintosh configuration has been made from scratch thanks to those guides,
 
 ## Specific Things
 * **BIOS** You will have to change DVMT pre-alloc size to 64 MB
+* Please add your own PlatformInfo in the config.plist 
