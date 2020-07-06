@@ -1,5 +1,5 @@
-## HP ProBook 440 G2 Hackintosh OpenCore
-# System Specifications
+# HP ProBook 440 G2 Hackintosh OpenCore
+## System Specifications
 
 ## Current version
 * OpenCore - 0.5.9
