@@ -3,11 +3,11 @@
   *  CPU : Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
   *  GPU : Intel HD Graphics 5500
   *  RAM : 8.00 GB (4 GB * 2)
-  *  Motherboard : 
-  *  Audio Codec : Realtek ALC282
+  *  Motherboard : Hewlett-Packard 2247 KBC Ver 59.23
+  *  Audio Codec : Realtek HD Audio ALC282
   *  Ethernet Card : Realtek RTL8111 Gigabit Ethernet Controller 
   *  Wifi/BT Card : Broadcom BCM4352 802.11ac Wireless Network Adapter 
-  *  Trackpad : Synaptics PS2 Trackpad
+  *  Trackpad : Synaptics LuxPad PS2 Trackpad
   *  Card Reader : Realtek RTS5227 PCI Express Card Reader
 
 ## Current version
