@@ -1,4 +1,4 @@
-# HP ProBook 440 G2 Hackintosh OpenCore
+# HP ProBook 440 G2 OpenCore
 ## System Specifications
   *  CPU : Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
   *  GPU : Intel HD Graphics 5500
