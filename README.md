@@ -11,7 +11,7 @@
   *  Card Reader : Realtek RTS5227 PCI Express Card Reader
 
 ## Current version
-* OpenCore - 0.5.9
+* OpenCore - 0.6.5
 * BIOS - M73 Ver 1.54
 
 ## Disclaimer
